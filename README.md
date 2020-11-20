@@ -2,7 +2,7 @@
 
 > Simple library to clear cache and reload after
 
-[![NPM](https://img.shields.io/npm/v/react-updateapp.svg)](https://www.npmjs.com/package/react-updateapp) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/clear-cache.svg)](https://www.npmjs.com/package/clear-cache) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 

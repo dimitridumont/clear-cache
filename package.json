@@ -1,7 +1,8 @@
 {
   "name": "clear-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple library to clear cache and reload page",
+  "repository": "dimitridumont/clear-cache",
   "main": "index.js",
   "scripts": {},
   "keywords": ["clear cache", "force refresh", "force reload", "reload", "refresh"],
