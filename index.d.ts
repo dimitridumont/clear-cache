@@ -1,4 +1,4 @@
 declare module 'clear-cache' {
-  function clearCache (realoadAfterClear: boolean): void;
+  function async clearCache (realoadAfterClear: boolean): void;
   export default clearCache
 }
